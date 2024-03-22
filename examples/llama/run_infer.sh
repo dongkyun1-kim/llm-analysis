@@ -12,7 +12,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-gpu_name='a100-sxm-80gb'
+# Mark_Test gpu_name='a100-sxm-80gb'
+gpu_name='mi250x-128gb'
 dtype_name="w16a16e16"
 output_dir='outputs_infer_ideal'
 flops_efficiency=1
